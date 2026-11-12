@@ -1,0 +1,15 @@
+return {
+    ["Hidden Differences"]             = { fr = "Différences cachées", es = "Diferencias ocultas", de = "Versteckte Unterschiede" },
+    ["Two readers, two grids of symbols: describe yours aloud and find the differences together."] = { fr = "Deux liseuses, deux grilles de symboles : décrivez la vôtre à voix haute et trouvez ensemble les différences.", es = "Dos lectores, dos cuadrículas de símbolos: describa la suya en voz alta y encuentren juntos las diferencias.", de = "Zwei Reader, zwei Symbolgitter: Beschreibt eure Gitter laut und findet gemeinsam die Unterschiede." },
+    ["Show the differences"]           = { fr = "Montrer les différences", es = "Mostrar las diferencias", de = "Unterschiede zeigen" },
+    ["All %1 differences found, with %2 mistake(s)!"] = { fr = "Les %1 différences sont trouvées, avec %2 erreur(s) !", es = "¡Las %1 diferencias encontradas, con %2 error(es)!", de = "Alle %1 Unterschiede gefunden, mit %2 Fehler(n)!" },
+    ["Found %1 of %2 differences."]    = { fr = "%1 différences trouvées sur %2.", es = "%1 de %2 diferencias encontradas.", de = "%1 von %2 Unterschieden gefunden." },
+    ["Grid %1"]                        = { fr = "Grille %1", es = "Cuadrícula %1", de = "Gitter %1" },
+    ["Differences found: %1/%2"]       = { fr = "Différences trouvées : %1/%2", es = "Diferencias encontradas: %1/%2", de = "Unterschiede gefunden: %1/%2" },
+    ["Mistakes: %1"]                   = { fr = "Erreurs : %1", es = "Errores: %1", de = "Fehler: %1" },
+    ["%1 was already tried."]          = { fr = "%1 a déjà été essayée.", es = "%1 ya se probó.", de = "%1 wurde schon versucht." },
+    ["%1 is the same on both grids."]  = { fr = "%1 est pareille sur les deux grilles.", es = "%1 es igual en las dos cuadrículas.", de = "%1 ist auf beiden Gittern gleich." },
+    ["Give up and show the differences left?"] = { fr = "Abandonner et montrer les différences restantes ?", es = "¿Rendirse y mostrar las diferencias que quedan?", de = "Aufgeben und die restlichen Unterschiede zeigen?" },
+    ["Grid A"]                         = { fr = "Grille A", es = "Cuadrícula A", de = "Gitter A" },
+    ["Grid B"]                         = { fr = "Grille B", es = "Cuadrícula B", de = "Gitter B" },
+}
